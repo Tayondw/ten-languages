@@ -39,7 +39,7 @@ I will update this as I go
 9. Shell
 10. Java
 
-> HTML and $\LaTeX$ are classified as `markup` languages; all others are `programming`
+> HTML is classified as `markup` languages; all others are `programming`
 
 ## Linguist
 
