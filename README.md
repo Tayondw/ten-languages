@@ -30,7 +30,7 @@ I will update this as I go
 
 1. Python
 2. Rust
-3. G0
+3. Go
 4. JavaScript
 5. TypeScript
 6. C++
